@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>logoIcon.ico</file>
+        <file>maytechlogo.ico</file>
+    </qresource>
+</RCC>
